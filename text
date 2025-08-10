@@ -87,4 +87,4 @@ k(62,0, 62,1, 64,1, 64,0, 62,3, 64,3, 64,4);
 l(67,0, 67,4);
 pygame.display.update();
 while True:
-    pass;
+    pygame.display.update();
